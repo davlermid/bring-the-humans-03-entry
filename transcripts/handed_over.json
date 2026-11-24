@@ -1,9 +1,0 @@
-{
-  "harness": "opencode",
-  "model": "openrouter/auto",
-  "messages": [
-    {"role": "user", "content": "Create TikTok video ad for bring-the-humans-03"},
-    {"role": "assistant", "content": "Created final_video.mp4 with brand badge, make.fun explanation, and referral end card with code 8sqmsgvk"}
-  ],
-  "handed_over": "No session recording available - custom agent"
-}
